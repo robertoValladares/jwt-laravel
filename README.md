@@ -1,2 +1,2 @@
 # jwt-laravel
-How to condigurete jwt in laravel
+How to configurate jwt in laravel
