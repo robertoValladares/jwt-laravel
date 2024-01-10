@@ -11,7 +11,7 @@ composer require tymon/jwt-auth
 php artisan vendor:publish --provider="Tymon\JWTAuth\Providers\LaravelServiceProvider"
 ```
 
-# Step 3: Implement JWT in User Model
+## Step 3: Implement JWT in User Model
 ## Update your User model (usually located at app/Models/User.php) to implement the JWTSubject contract:
 
 ```php
