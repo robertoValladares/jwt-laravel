@@ -18,8 +18,9 @@ In this repository, we've curated a comprehensive guide to seamlessly integrate 
 
 Feel free to dive into the steps, copy the provided code snippets, and elevate your Laravel project's authentication to the next level. Let's make your application more secure, user-friendly, and ready for the challenges of modern web development!
 
-Happy coding! 🚀🔒
+**Note:** All the code and instructions mentioned in this guide are available in this repository and are fully functional for Laravel 10. You can find everything you need to implement JWT authentication in your Laravel project.
 
+Happy coding! 🚀🔒
 # JWT Authentication Setup for Laravel
 
 Follow these steps to integrate JWT authentication into your Laravel project.
